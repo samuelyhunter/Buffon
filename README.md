@@ -10,4 +10,4 @@ I've only run the program up to 10,000 needles before my laptop started to freez
 ![](https://github.com/SamuelHunter/Buffon/blob/master/Buffon_10000.png)
 
 I first came across this problem in [How Not to Be Wrong: The Power of Mathematical Thinking, by Jordan Ellenberg](http://www.jordanellenberg.com).\
-I previously wrote Java programs to simulate questions from another fascinating book, [Fifty Challenging Problems in Probability with Solutions, by Frederick Mosteller](http://store.doverpublications.com/0486653552.html). I will upload these programs soon, and then write new simulations in Python for other problems.
+A more challenging variant to simulate is Buffon's Noodle, but the results are similar.
