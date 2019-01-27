@@ -3,7 +3,8 @@
 My second side project as I get a better handle on Python:
 
 *Buffon's Needle Problem*\
-A needle is randomly dropped on a floor made up of evenly spaced floorboards. Determine the probability that the needle lands on a line separating floorboards.\
+A needle is randomly dropped on a floor made up of evenly spaced floorboards. Determine the probability that the needle lands on a line separating floorboards.
+
 Either through clever integration or a combination of geometry and expectation, it can be shown that this probability is directly related to pi. In the special case of the floorboards being twice as wide as the length of the needles, the probability is simply 1/pi.\
 Thus, a simulation of Buffon's Needle Problem can be used (although quite inefficiently) as a Monte Carlo method for approximating pi.
 
